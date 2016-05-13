@@ -1,0 +1,10 @@
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\bin\Debug\DR-Elemental-Calculator.exe.config
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\bin\Debug\DR-Elemental-Calculator.exe
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\bin\Debug\DR-Elemental-Calculator.pdb
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\bin\Debug\DR-Elemental-Calculator.xml
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\obj\Debug\DR_Elemental_Calculator.Form1.resources
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\obj\Debug\DR_Elemental_Calculator.Resources.resources
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\obj\Debug\DR-Elemental-Calculator.vbproj.GenerateResource.Cache
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\obj\Debug\DR-Elemental-Calculator.exe
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\obj\Debug\DR-Elemental-Calculator.xml
+C:\Users\Wilson\Desktop\DR-Elemental-Calculator\DR-Elemental-Calculator\obj\Debug\DR-Elemental-Calculator.pdb
